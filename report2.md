@@ -9,9 +9,9 @@
 В результате тестирования выявлены следующие дефекты: 
 Валидные номера карт некоторых банков не признаются таковыми, так как содержат
 
-больше 16 цифр,https://github.com/Alymar24/JAVA2/issues/1#issue-749689255
-или
-меньше 16 цифр, https://github.com/Alymar24/JAVA2/issues/2#issue-749691855
+* больше 16 цифр,https://github.com/Alymar24/JAVA2/issues/1#issue-749689255
+* или
+* меньше 16 цифр, https://github.com/Alymar24/JAVA2/issues/2#issue-749691855
 
 ## Описание процесса тестирования 
 
